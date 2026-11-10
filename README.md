@@ -1,9 +1,9 @@
 # Demographic & Contact Data Analysis | Power BI Dashboard
 
 ## Dashboard Preview
-![Overview] (screenshots/page1_gender.png)
-![Email Domain] (screenshots/page2_email.png)
-![Names] (screenshots/page3_names.png)
+![Overview](Screenshot_Page1_gender.png.png)
+![Email Domain](Screenshot_Page2_email%20domain.png)
+![Names](Screenshot_Page3_names.png.png)
 
 ## Project Overview
 
